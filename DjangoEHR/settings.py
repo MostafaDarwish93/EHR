@@ -91,8 +91,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'postgres',
         'USER': 'mostafalab1',
-        'PASSWORD': 'Mostafa93_00',
-        'HOST': 'ehrserver.postgres.database.azure.com',
+        'PASSWORD': 'Irelia93',
+        'HOST': 'mostafalab1.postgres.database.azure.com',
         'PORT': '5432',
         'OPTIONS':{'sslmode':'require'},
     }
