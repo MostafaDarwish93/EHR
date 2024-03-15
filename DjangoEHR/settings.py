@@ -90,7 +90,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'postgres',
-        'USER': 'mostafalab1',
+        'USER': 'Mostafa_Khaled93',
         'PASSWORD': 'Irelia93',
         'HOST': 'mostafalab1.postgres.database.azure.com',
         'PORT': '5432',
